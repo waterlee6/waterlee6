@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Good&nbsp;to&nbsp;see&nbsp;you%20&fontSize=80-nl-I'm&nbsp;Water&nbsp;Lee&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Good&nbsp;to&nbsp;see&nbsp;you%20&fontSize=80)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
