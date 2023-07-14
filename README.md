@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text="Hi, let me itroduce me!"%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=It's_good_to_see_you%20render&fontSize=90)
 
 <!--
 **waterlee6/waterlee6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
