@@ -18,11 +18,7 @@
 
 #### Contact me
 [![Notion Badge](http://img.shields.io/badge/-Notion-000000?style=flat&logo=Notion&link=https://edu.ssafy.com/edu/main/index.do)](https://edu.ssafy.com/edu/main/index.do)
-
-
-![Notion](https://img.shields.io/badge/Notion-000000) &nbsp;
-![Blog](https://img.shields.io/badge/Blog-8A2BE2) &nbsp;
-![gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=waterleee6@gmail.com)
-
+[![Blog Badge](http://img.shields.io/badge/-Naver-03C75A?style=flat&logo=Naver&logoColor=white&link=https://naver.com)](https://naver.com)
+[![Gmail Badge](http://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=https://google.com)](https://google.com)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer)
